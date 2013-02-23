@@ -1,4 +1,4 @@
-Marketplace
+Marketplace [![Build Status](https://travis-ci.org/ntabernero/ozp-marketplace.png)](https://travis-ci.org/ntabernero/ozp-marketplace)
 ======================
 
 This is the Marketplace module of the Ozone Platform.  It builds OSGI bundles that are meant to be run in the 
